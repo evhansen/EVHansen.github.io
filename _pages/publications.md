@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+## Selected Primary Publications
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
@@ -14,3 +16,7 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+## Complete Contribution List
+
+ <script src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fusers%2F6711034%2Fcollections%2FU82SZ5NA%2Fitems%3Fkey%3DMyTnimZINhuUA14AzVmfr5Ur%26format%3Dbibtex%26limit%3D100&jsonp=1&folding=1"></script>
