@@ -1,50 +1,22 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Erin V Hansen, Postdoctoral Researcher at UC Berkeley"
 excerpt: "About me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
-Test2
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+About me
 
-A data-driven personal website
+A little on Neutrinos:
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Neutrinos are one of the most abundant particles in the observable universe, and yet they are one of the least understood parts of nature. The neutrino can be emitted from the sun and from the earth; we also observe them from nuclear reactors, supernovae, and particle accelerators. The human body also produces neutrinos! Why don't we understand something that's so common? It mostly has to do with how neutrinos interact with matter. Short answer is: they mostly don't! Neutrinos interact via the weak force, and therefore tend to travel through matter as if its not even there. It takes gigantic detectors or very active sources to get any observed events! But... there are quite a few things we do know:
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Neutrinos come in three "flavors" -- which flavor is observed by a given interaction is not only based on where it was born but also how long it's been since it was created, as a single neutrino oscillates between flavors as it travels. The mechanism by which these flavors oscillate is due to a rotation between the flavor eigenstates and the mass eigenstates -- thus the observation of neutrino oscillations requires at least two neutrinos to have a nonzero mass. Considering the best model at the time suggested neutrinos always had zero mass, this was _huge_! The Nobel Prize was awarded very recently ([2015](https://www.nobelprize.org/prizes/physics/2015/advanced-information/)) "for the discovery of neutrino oscillations, which shows that neutrinos have mass."
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right.
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+We have known neutrinos have mass, but what exactly is the value of their mass? ... ... **No one knows**. We have a pretty good idea of how big they aren't (we know they're less than 1 eV) but we don't have values for the masses, or in fact which mass state is the lightest!
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header.
+We don't know a lot of things about the neutrino, but one of the most fascinating outstanding questions is the possibility that neutrinos, as neutral massive particles, could possibly be their own antiparticle. This all has to do with the frame of reference you're looking in, and FermiLab has a great analogy [here](https://news.fnal.gov/2012/09/neutrinos-majorana-or-dirac/). I currently participate in an experiment ([CUPID](https://cupid.lngs.infn.it)) that seeks to understand this particular question by compiling a lot of a very special isotope, 100-Molybdenum, putting it in one place with a bunch of instrumentation, and waiting for it to decay. My job, through analysis and hardware development, is to help isolate the signal of a neutrinoless double beta decay from backgrounds caused by Earth and her materials being inherently full of radioactivity noise.
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons.
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+You can learn more about [neutrinos](https://www.symmetrymagazine.org/article/is-the-neutrino-its-own-antiparticle), [rare-event searches](https://www.symmetrymagazine.org/article/waiting-for-a-sign), and [background reduction](https://www.symmetrymagazine.org/article/on-background) at these links.
