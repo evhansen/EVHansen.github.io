@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Erin V Hansen"
   avatar           : "headshot.jpg"
-  bio              : "Postdoctoral Researcher at University of California, Berkeley."
+  bio              : "Postdoctoral Researcher"
   location         : "Bay Area, CA"
-  employer         :
+  employer         : "University of California, Berkeley"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=jHZL0ssAAAAJ"
   email            :
@@ -178,6 +178,9 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
+  teaching-certification:
+    output: true
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -209,6 +212,15 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _teaching-certification
+  - scope:
+      path: ""
+      type: teaching-certification
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _teaching
   - scope:
       path: ""

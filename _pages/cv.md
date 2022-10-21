@@ -9,14 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+You can find my CV here: [Updated October 2022](/files/CV_ErinVHansen_Nov22.pdf)
+
+<br>
+
+# Education
+
 * Ph.D. in Physics with Minor in Undergraduate STEM Education, Drexel University, 2019
 * M.S. in Physics, Rensselaer Polytechnic Institute, 2013
 * B.S. in Physics, Rensselaer Polytechnic Institute, 2012
 
-Professional Appointments
-======
+
+<br>
+_________________
+<br>
+
+# Professional Appointments
+
 
 | Dates             	| Position                      | Details                                                                                                                                                                                     |
 | -------------       |------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -27,6 +36,11 @@ Professional Appointments
 | 2012-2013 	        | Graduate Teaching Assistant   | Rensselaer Polytechnic Institute                                                                                                                                                            |
 | 2009-2012    	      | Undergraduate Researcher      | Rensselaer Polytechnic Institute<br> Projects: Daya Bay<br>Supervisor: Jim Napolitano                                                                                                      	|
 
+
+<br>
+_________________
+<br>
+
 <!-- Skills
 ======
 * Skill 1
@@ -36,27 +50,50 @@ Professional Appointments
   * Sub-skill 2.3
 * Skill 3 -->
 
-Publications
-======
+# Selected Publications
+
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+
+
+<br>
+_________________
+<br>
   
-Talks
-======
+# Selected Talks
+
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+
+
+
+<br>
+_________________
+<br>
   
-Teaching
-======
+# Teaching
+
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
 
-Awards & Honors
-======
+
+## Instructional Certification
+
+  <ul>{% for post in site.teaching-certification reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+
+<br>
+_________________
+<br>
+
+# Awards & Honors
+
 
 |  	| Award 	| Awarding Institution 	|
 |---	|---	|---	|
@@ -67,8 +104,12 @@ Awards & Honors
 | 2013 	| Nadia Trinkala Service Award 	| Rensselaer Polytechnic Institute Department of Physics, for significant contributions to the community & quality of life at Rensselaer and in City of Troy. 	|
 
 
-Service and leadership
-======
+
+<br>
+_________________
+<br>
+
+# Service and leadership
 
 | Date 	| Organization 	| Role 	|
 |---	|---	|---	|
