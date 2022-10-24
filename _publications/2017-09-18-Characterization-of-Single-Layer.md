@@ -16,4 +16,4 @@ Combining analysis from phonon signals and photon signals is a powerful techniqu
 
 
 
-Recommended citation: Hansen, E.V., DePorzio, N., and Winslow, L.. "Characterization of single layer anti-reflective coatings for bolometer-based rare event searches" JINST 12, no. 09, P09018(2017)
+<!-- Recommended citation: Hansen, E.V., DePorzio, N., and Winslow, L.. "Characterization of single layer anti-reflective coatings for bolometer-based rare event searches" JINST 12, no. 09, P09018(2017) -->

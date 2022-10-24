@@ -14,4 +14,4 @@ I present results from an end-of run calibration campaign on nEXOs predecessor e
 
 [Download Directly](https://drive.google.com/file/d/1xQsJRK8Oga5WYXljRGcimERsPrkpa_rb/view)
 
-Recommended citation: Hansen, Erin V. “Radon Injection for Light Response Calibration of the nEXO Detector.” ProQuest Dissertations and Theses, 2019.
+<!-- Recommended citation: Hansen, Erin V. “Radon Injection for Light Response Calibration of the nEXO Detector.” ProQuest Dissertations and Theses, 2019. -->

@@ -19,7 +19,7 @@ This report summarizes the community contributions and recommendations within th
 
 ### On This Publication: 
 
-This paper was compiled by the authors as part of the Snowmass Community Planning Exercise, in the Community Engagement Frontier (CEF) Diversity, Equity, and Inclusion Topical Group (CEF04). 
+This paper was compiled by the authors as part of the Snowmass Community Planning Exercise, in the Community Engagement Frontier (CEF) Diversity, Equity, and Inclusion Topical Group (CEF03). I was responsible for general organization of the paper, compiling literature summaries, and developing recommendations based on white papers submitted to CEF03 as part of the Snowmass exercise. 
 
 [More about Snowmass](https://snowmass21.org/start)
 

@@ -8,7 +8,9 @@ date: 2022-06-01
 location: "Virtual"
 ---
 
-Intensive course designed by [CIRTL](https://www.cirtl.net/) for future faculty. Students will learn how to create a great learning experience for their classrooms while developing a solid foundation of best teaching practices and strategies.
+Intensive course designed for future faculty by the University of Florida [Center for Teaching Excellence](https://teach.ufl.edu) and run through [CIRTL](https://www.cirtl.net/). Students will learn how to create a great learning experience for their classrooms while developing a solid foundation of best teaching practices and strategies.
+
+You can read more about the probram (and register for upcoming academies) [at this link](https://teach.ufl.edu/events-and-workshops/fyfta/)
 
 <!-- Heading 1
 ======

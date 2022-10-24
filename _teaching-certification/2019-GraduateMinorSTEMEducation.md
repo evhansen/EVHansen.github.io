@@ -8,7 +8,7 @@ date: 2019-06-01
 location: "Philadelphia, PA"
 ---
 
-Graduate Minor in STEM education which requires advanced coursework in evidence-based pedagogies and assessment practices. 
+Graduate Minor in STEM education which requires advanced coursework in evidence-based pedagogies and assessment practices. Completed through the Drexel Center for the Advancement of STEM Teaching and Learning Excellence ([CASTLE](https://drexel.edu/castle/))
 
 [About the Graduate Minor](https://catalog.drexel.edu/graduate/schoolofeducation/undergraduatestemeducationgminor/)
 
