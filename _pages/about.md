@@ -19,7 +19,7 @@ I've worked in neutrino physics since 2009, and specifically on neutrinoless dou
 
 
 ### Instruction
-I'm also trained in advanced educational pedagogies, with a graduate minor in Undergraduate STEM Education and an Associate Certificate from [CIRTL](https://www.cirtl.net/).
+I most recently taught UC Berkeley Physics 105 (Analytic Mechanics) over the Summer 2023 term. I'm also trained in advanced educational pedagogies, with a graduate minor in Undergraduate STEM Education and an Associate Certificate from [CIRTL](https://www.cirtl.net/).
 
 
 ### Community Engagement
@@ -28,7 +28,7 @@ I currently sit on the UC Berkeley Physics APS-IDEA Team / DEI Committee, and I 
 
 
 ### Outside of the Office
-Outside of research and teaching, I find my happy place rolling d20s in our regular D&D campaigns (right now I'm the DM for a Curse of Strahd game, and am playing a goliath forge cleric in IceWind Dale) and playing video games. Most recently I finished Horizon Zero Dawn, I'm working through Skyrim for the n<sup>th</sup> time. I also spoil my very fluffy cat!
+Outside of research and teaching, I find my happy place rolling d20s in our regular D&D campaigns (I just finished DM'ing Curse of Strahd and started up a new homebrew campaign, and am playing a goliath forge cleric in IceWind Dale) and playing video games. I'm very into Baldur's Gate III and Starfield at the moment. I also spoil my very fluffy cat!
 
 <img src='/images/SamsDragon.jpg' alt="Slanted view of a Dungeons and Dragons map, with several miniatures (including a dwarf, a dragonborn, a bear, and a rogue half-elf) surrounding a paper cutout of a blue dragon." style="width:200px;height:200px;display: block; margin-right: auto; margin-left: auto;"><img src='/images/SpencerMlem.jpg' alt="A chunky furry grey and blue cat looks to the left with his tongue sticking out. Behind him is a patio with brown slats, which show green trees in the background. " style="width:200px;height:200px;display: block; margin-right: auto; margin-left: auto;">
 
