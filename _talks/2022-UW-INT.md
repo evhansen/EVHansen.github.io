@@ -16,4 +16,4 @@ Despite years of intense focus, there is much still to learn about neutrinos; fo
 
 A PDF of slides is available [at this link](/files/UW_Invited_1Dec22.pdf).
 
-The seminar recoursing is available [here, courtesy of UW](https://archive.int.washington.edu/talks/S@INTvideos/Hansen_Dec_1_2022.mp4).
+The seminar recording is available [here, courtesy of UW](https://archive.int.washington.edu/talks/S@INTvideos/Hansen_Dec_1_2022.mp4).
