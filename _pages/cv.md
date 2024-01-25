@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my CV here: [Updated January 2023](/files/cv_25jan24)
+You can find my CV here: [Updated January 2023](/files/cv_25jan24.pdf)
 
 <br>
 
